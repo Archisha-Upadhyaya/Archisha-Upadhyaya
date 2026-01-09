@@ -85,25 +85,6 @@
   <em>Check out my latest projects and work!</em>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archisha-Upadhyaya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archisha-Upadhyaya&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archisha-Upadhyaya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Archisha-Upadhyaya&theme=radical&no-frame=true&no-bg=false&margin-w=12&row=1&column=5" alt="GitHub Trophies" />
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
